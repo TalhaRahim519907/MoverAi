@@ -1,0 +1,8 @@
+{
+  "name": "Copy of MoverAi",
+  "description": "A sleek, modern application by MoverAi that helps customers generate a household inventory list by simply describing a video of their home. It estimates item volume and total space required for a move.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
